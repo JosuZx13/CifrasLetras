@@ -7,4 +7,4 @@ Este juego consiste en dada una serie de letras escogidas de forma aleatoria, ob
 Por ejemplo dadas las siguientes letras:
 O D Y R M E T
 
-una de las mejores soluciones sería ### METRO
+una de las mejores soluciones sería METRO
